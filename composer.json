@@ -31,6 +31,9 @@
         "name": "fas fa-exclamation",
         "backgroundColor": "#000",
         "color": "#fff"
+      },
+     "branch-alias": {
+          "dev-master": "1.0.0-dev"
       }
     },
     "flagrow": {
