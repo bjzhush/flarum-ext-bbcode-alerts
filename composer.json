@@ -22,7 +22,7 @@
     "source": "https://github.com/0E800/flarum-ext-bbcode-alerts"
   },
   "require": {
-    "flarum/core": "^0.1.0-beta.8"
+    "flarum/core": "^1.0"
   },
   "extra": {
     "flarum-extension": {
