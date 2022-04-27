@@ -1,5 +1,5 @@
 {
-  "name": "oe800/flarum-ext-bbcode-alerts",
+  "name": "bjzhush/flarum-ext-bbcode-alerts",
   "description": "Add visual alerts / warnings to Flarum posts",
   "keywords": [
     "bbcode",
@@ -18,8 +18,8 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/0E800/flarum-ext-bbcode-alerts/issues",
-    "source": "https://github.com/0E800/flarum-ext-bbcode-alerts"
+    "issues": "https://github.com/github/flarum-ext-bbcode-alerts/issues",
+    "source": "https://github.com/github/flarum-ext-bbcode-alerts"
   },
   "require": {
     "flarum/core": "^1.0"
